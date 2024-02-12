@@ -1,6 +1,6 @@
 # Frontend Developer
 
-Welcome to my slice of the internet! This repository is a living document of my journey as a Frontend Developer. Here you'll find a collection of my projects, each crafted with care, showcasing my skills in creating beautiful and functional web interfaces.
+Welcome to my slice of the internet! This repository is a living document of my journey as a Frontend Developer.
 
 ## About Me
 
